@@ -6,5 +6,7 @@ import {Test} from "forge-std/Test.sol";
 
 // Test 
 contract FundMeTest is Test {
+    function setUp() external {}
 
-}
+    function testDemo() public{}
+ }
